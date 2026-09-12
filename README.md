@@ -236,3 +236,6 @@ This repository serves as the official landing page for Kali Linux. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Kali Linux today!**
+
+---
+**Last updated:** 2026-09-12 11:58:56 UTC
