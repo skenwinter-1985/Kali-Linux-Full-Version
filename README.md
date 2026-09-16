@@ -238,4 +238,4 @@ This repository serves as the official landing page for Kali Linux. The software
 **Get the most recent version of Kali Linux today!**
 
 ---
-**Last updated:** 2026-09-16 14:35:52 UTC
+**Last updated:** 2026-09-16 18:39:05 UTC
